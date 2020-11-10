@@ -7,8 +7,11 @@ Exercise: Star Wars API ETL
 Run the following setup commands:
 
 > python3 -m venv .env
+
 > source .env/bin/activate
+
 > pip install -r requirements.txt
+
 > python starwars.py
 
 ## Instructions:
